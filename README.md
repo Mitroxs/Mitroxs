@@ -21,4 +21,4 @@ Projects i am currently working on
 * GitEncrypt 
 * Easy KVM Virtualization for server managment (Future project)
 
-![...](https://github-readme-stats.vercel.app/api?username=NotScar&show_icons=true&theme=radical&show&count_private=true)
+![...](https://github-readme-stats.vercel.app/api?username=Mitroxs&show_icons=true&theme=radical&show&count_private=true)
