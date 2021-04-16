@@ -13,7 +13,10 @@ Ways to Contact me
 
 * Discord: O_O#4500
 
-
+Projects i have worked on
+* Fivem warning system with @NotScar
+* Limitless Framework
+* Fivem server status bot
 
 Projects i am currently working on
 
