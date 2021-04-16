@@ -15,8 +15,8 @@ Ways to Contact me
 
 Projects i have worked on
 * Fivem warning system with [@NotScar](https://github.com/NotScar)
-* Limitless Framework
-* Fivem server status bot
+* Limitless Framework with [@NotScar](https://github.com/NotScar)
+* Fivem server status bot with [@NotScar](https://github.com/NotScar)
 
 Projects i am currently working on
 
