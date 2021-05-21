@@ -1,4 +1,4 @@
-Lead-Developer for @LMTLSDevelopment
+
 
 Languages
 
