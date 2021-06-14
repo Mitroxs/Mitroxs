@@ -23,6 +23,6 @@ Projects i am currently working on
 
 * @LMTLSDevelopment FiveM server
 * GitEncrypt 
-* Easy KVM Virtualization for server managment (Future project)
+* More indepth Rust server info APIS (The game)
 
 ![...](https://github-readme-stats.vercel.app/api?username=Mitroxs&show_icons=true&theme=radical&show&count_private=true)
