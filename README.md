@@ -21,7 +21,6 @@ Projects i have worked on
 
 Projects i am currently working on
 
-* @LMTLSDevelopment FiveM server
 * GitEncrypt 
 * More indepth Rust server info APIS (The game)
 
