@@ -10,7 +10,7 @@ Languages
 
 Ways to Contact me
 
-* Discord: Edvard#1234
+* Discord: Edvard#4743
 
 Projects i have worked on
 * Fivem warning system with [@NotScar](https://github.com/NotScar)
