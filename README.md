@@ -7,7 +7,7 @@ Languages
 * Python
 * NodeJS
 * Base level C# (Familiar with the oxide framework for Rust)
-
+* Base level C++
 Ways to Contact me
 
 * Discord: Edvard#4743
