@@ -28,7 +28,7 @@ Projects i am currently working on
 
 # Portofolio
 
-- **FiveM live ticket crypto market**
+- **FiveM live ticker crypto market**
   <details>
     <summary>Picture</summary>
     <img src="https://i.gyazo.com/4cdf0edb7f8ebdbfa0739c44a16b0bbb.png">
