@@ -8,8 +8,9 @@ Languages
 * NodeJS
 * Base level C# (Familiar with the oxide framework for Rust)
 * Base level C++
-Ways to Contact me
 
+
+Ways to Contact me
 * Discord: Edvard#4743
 
 Projects i have worked on
